@@ -913,3 +913,17 @@ blockquote {
 .text-skill {
   color: #ff9e2b;
 }
+
+.my-name {
+  background: radial-gradient(
+  ellipse farthest-corner at 90% 90%,
+  #69b0bb 30%, 
+  rgb(180, 180, 18) 60%, 
+  rgb(230, 230, 223)
+  );
+  background-clip: text;
+  color: transparent;
+
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
