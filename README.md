@@ -1,6 +1,6 @@
-## Main Portfolio Website
+### Main Portfolio Website
 
-[www.irajan.xyz](www.irajan.xyz)
+### [www.irajan.xyz](www.irajan.xyz)
 
 ---
 
