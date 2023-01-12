@@ -1,9 +1,3 @@
-title: <Rajan/>
-author:
-  name: Rajan
-  email: rajankhade31 at gmail.com
-
-
 ### Main Portfolio Website
 
 ### [irajan.xyz](https://www.irajan.xyz)
