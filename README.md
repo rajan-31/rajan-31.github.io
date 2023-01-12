@@ -1,3 +1,9 @@
+title: <Rajan/>
+author:
+  name: Rajan
+  email: rajankhade31 at gmail.com
+
+
 ### Main Portfolio Website
 
 ### [irajan.xyz](https://www.irajan.xyz)
@@ -14,10 +20,10 @@
 
 - Online Rich Text Editor
 
-    [rajan-31.github.io/text_editor](https://rajan-31.github.io/text_editor)
+    [rajan-31.github.io/text-editor](https://rajan-31.github.io/text-editor)
 
 ### Miscellaneous
 
 - Forkify (Find food recipe and contets for multple servings; eg. Pizza)
 
-    [rajan-31.github.io/forkify](https://rajan-31.github.io/forkify)
+    [rajan-31.github.io/forkify/dist/index.html](https://rajan-31.github.io/forkify/dist/index.html)
