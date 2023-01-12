@@ -20,4 +20,4 @@
 
 - Forkify (Find food recipe and contets for multple servings; eg. Pizza)
 
-    [rajan-31.github.io/fokify](https://rajan-31.github.io/fokify)
+    [rajan-31.github.io/forkify](https://rajan-31.github.io/forkify)
